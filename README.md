@@ -17,10 +17,9 @@ I'm **Makhabat Zhyrgalbekova**, a highly motivated **Data Science student** base
 ### 🚀 Projects
 
 - 🌱 **React-plantShopping**: An e-commerce plant website built with React  
-- 🌐 **First_HTML_CSS_JS_project**: My first web development project using HTML, CSS & JavaScript  
+- 🌐 **First_HTML_CSS_JS_project**: My Portfolio website using HTML, CSS & JavaScript  
 - 🧠 **Context-Aware AI Chatbot**: Multilingual chatbot with real-time sentiment analysis and a React dashboard using Hugging Face models and RAG pipeline  
 - ⚽ **Football Player & Ball Tracker**: Used YOLO and computer vision to track players and the ball in football match videos  
-- 🏇 **Horse Racing Outcome Prediction**: Machine learning model using historical UK & Ireland data with XGBoost & Random Forest  
 - 📊 **Student Performance Predictor**: Linear regression model predicting academic performance with 98.9% accuracy  
 - 🏥 **COVID-19 India Dashboard**: Tableau-based dashboard to analyze health trends and guide strategic planning  
 - 🔁 **End-to-End ETL Workflow**: Full pipeline for customer data from diverse sources into a clean data warehouse
